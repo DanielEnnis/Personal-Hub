@@ -1,0 +1,3 @@
+Redirect 301 /twitter https://twitter.com/DNVNcreative
+Redirect 301 /youtube https://www.youtube.com/channel/UC3C1ePQAW4zR_2I0l3aUm0A
+errorDocument 404 /
