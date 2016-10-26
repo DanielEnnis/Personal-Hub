@@ -1,4 +1,7 @@
 # Personal Hub Website
+
+A preview of this website is available here: https://danielennis.github.io/Personal-Hub/
+
 You may use this in your projects provided credit is given.
 Please also let me know if you're using it. I'd love to see them.
 This project was made for a client, so some materials may or may not belong to that client. They are listed below
